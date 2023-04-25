@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500&display=swap');
+
+.Categories {
+    padding: 6px 16px;
+    color: #0084ff;
+    list-style-type: none;
+    border: 1px solid #0084ff;
+    margin: 5px;
+    border-radius: 15px;
+    font-family: 'Raleway', sans-serif;
+    float: left;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 13px;
+  }
+  .Categories:hover {
+    color: #fff;
+    background: linear-gradient(269deg,#0048ff,#0096ff);
+  }
+  #active {
+    color: #fff;
+    background: linear-gradient(269deg,#0048ff,#0096ff);
+  }

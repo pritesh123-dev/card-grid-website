@@ -1,0 +1,27 @@
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  height: 500px;
+  background-image: url("https://www.edyoda.com/static/media/FooterBg.0d54e96d.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: Raleway, sans-serif;
+  align-items: center;
+  font-size: 13px;
+}
+ul {
+  list-style-type: none;
+}
+ul li {
+  padding: 5px;
+}
+.headLine {
+  font-size: 20px;
+  color: rgb(163, 162, 162);
+  margin-bottom: 15px;
+}
+.pointerStyle {
+  cursor: pointer;
+}
